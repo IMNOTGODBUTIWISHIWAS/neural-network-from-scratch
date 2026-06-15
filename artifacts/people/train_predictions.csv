@@ -1,0 +1,5 @@
+name,probability_class_1,predicted_label
+Alice,0.941883,1
+Bob,0.038190,0
+Charlie,0.038190,0
+Diana,0.950276,1

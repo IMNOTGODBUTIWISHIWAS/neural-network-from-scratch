@@ -1,0 +1,3 @@
+name,weight_lb,height_in,x1_weight_shifted,x2_height_shifted,label
+Emily,128,63,-7,-3
+Frank,155,68,20,2

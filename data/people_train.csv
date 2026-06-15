@@ -1,0 +1,5 @@
+name,weight_lb,height_in,x1_weight_shifted,x2_height_shifted,label
+Alice,133,65,-2,-1,1
+Bob,160,72,25,6,0
+Charlie,152,70,17,4,0
+Diana,120,60,-15,-6,1
