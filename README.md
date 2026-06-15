@@ -1,6 +1,6 @@
 # Neural Network From Scratch in Python
 
-![Tests](https://github.com/YOUR_USERNAME/neural-network-from-scratch/actions/workflows/tests.yml/badge.svg)
+![Tests](https://github.com/IMNOTGODBUTIWISHIWAS/neural-network-from-scratch/actions/workflows/tests.yml/badge.svg)
 ![Python](https://img.shields.io/badge/python-3.12%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
